@@ -1,7 +1,11 @@
 #WMIC-Windows Management Instrumentation Command-line.
+
 How to open Window Management Instrumentation Command-line.
+
 Open Command Prompt in Your Computer.
+
 Now Command the wmic cpu get caption, name, deviceid, numberofcores, maxclockspeed, status.
+
 Now you will get various information regarding your CPU Used on your computer.
 Caption                                DeviceID  MaxClockSpeed  Name                                 NumberOfCores  Status
 Intel64 Family 6 Model 183 Stepping 1  CPU0      2100           13th Gen Intel(R) Core(TM) i7-13700  16             OK
